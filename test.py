@@ -1,2 +1,2 @@
 def test():
-    print('This is a basic test')
+    print('This is a second test')
